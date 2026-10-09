@@ -57,9 +57,10 @@ width="40" />
 <h3 align="left">💻 Programming Languages:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 
 <h3 align="left">📊 Data Analysis:</h3>
@@ -112,7 +113,8 @@ width="40" />
 
 <h3 align="left">🧩 Software Development:</h3>
 <p align="left">
-<img src="https://img.shields.io/badge/-DSA-2b2b2b?style=flat" alt="DSA"/>
+<img src="https://img.shields.io/badge/-DSA%20in%20C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="DSA in C++"/>
+<img src="https://img.shields.io/badge/-DSA%20in%20Python-3776AB?style=flat&logo=python&logoColor=white" alt="DSA in Python"/>
 <img src="https://img.shields.io/badge/-Problem%20Solving-2b2b2b?style=flat" alt="Problem Solving"/>
 <img src="https://img.shields.io/badge/-Debugging-2b2b2b?style=flat" alt="Debugging"/>
 </p>
